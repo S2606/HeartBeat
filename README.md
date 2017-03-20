@@ -1,7 +1,7 @@
 # HeartBeat
 An app which on giving value of Beats per Minute(BPM) would show hearbeating animation as per the BPM and also plot realtime Graph
 
-#Library Support
+# Library Support
 
 
 Add it in your root build.gradle at the end of repositories:
